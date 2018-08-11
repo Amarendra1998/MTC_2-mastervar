@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title=""
+        android:icon="@drawable/ic_more_vert_black_24dp"
+        app:showAsAction="always">
+        <menu>
+            <item android:id="@+id/action_underTreatment"
+                android:title="@string/underTreatment"
+                android:icon="@drawable/ic_airline_seat_recline_extra_black_24dp"
+                app:showAsAction="never"/>
+            <item android:id="@+id/action_feedback"
+                android:title="@string/feedback"
+                android:icon="@drawable/ic_feedback_black_24dp"
+                app:showAsAction="never"/>
+            <item android:id="@+id/action_profile"
+                android:title="@string/profile"
+                android:icon="@drawable/ic_person_black_24dp"
+                app:showAsAction="never"/>
+            <item android:id="@+id/action_logout"
+                android:title="@string/logout"
+                android:icon="@drawable/ic_home_black_24dp"
+                app:showAsAction="never"/>
+        </menu>
+    </item>
+
+</menu>

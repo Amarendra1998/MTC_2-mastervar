@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "475605447516",
+    "firebase_url": "https://mtc2-ad1ba.firebaseio.com",
+    "project_id": "mtc2-ad1ba",
+    "storage_bucket": "mtc2-ad1ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475605447516:android:18c19d8576eff3e9",
+        "android_client_info": {
+          "package_name": "com.sulitous.mtc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475605447516-s9g6t5e7srvr9meig1cvud3d93gr9co2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sulitous.mtc",
+            "certificate_hash": "8b7c0efcbcc33cd763b9e940e648d7d88aae1ca6"
+          }
+        },
+        {
+          "client_id": "475605447516-q7nie760o6e780iu1nekc1qafjhs1jj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7oTO87prxL3KevUYS8Bpd19JC-PWqCkE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475605447516-q7nie760o6e780iu1nekc1qafjhs1jj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
